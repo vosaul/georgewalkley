@@ -22,10 +22,11 @@ This page is a work-in-progress list of books, journal articles and other resour
 
 #### Journal Articles
 
-* Arnoud Franken & Harry Thomsett, [When It Takes a Network: Creating Strategy and Agility Through Wargaming](https://journals.sagepub.com/doi/abs/10.1525/cmr.2013.55.3.107), California Management Review, 55(3), pp. 107-133, 2017.
+* Mie Augier, Nicholas Dew, Thorbjørn Knudsen & Nils Stieglitz, [Organizational persistence in the use of war gaming and scenario planning](https://www.sciencedirect.com/science/article/abs/pii/S0024630117305125), *Long Range Planning*, 51(4), pp. 511-525, 2018
+* Arnoud Franken & Harry Thomsett, [When It Takes a Network: Creating Strategy and Agility Through Wargaming](https://journals.sagepub.com/doi/abs/10.1525/cmr.2013.55.3.107), *California Management Review*, 55(3), pp. 107-133, 2017
+* Jay Kurtz, [Business Wargaming: Simulations Guide Crucial Strategy Decisions](https://www.emeraldinsight.com/doi/abs/10.1108/10878570310505550). *Strategy & Leadership*, 31(6), pp. 12-21, 2003
 
 <!--
-Augier, M., Dew, N., Knudsen, T. & Stieglitz, N., 2018. Organizational persistence in the use of war gaming and scenario planning. Long Range Planning, TBC(TBC), p. TBC.
 Bradfield, R. et al., 2005. The origins and evolution of scenario techniques in long range business planning. Futures, Issue 37, pp. 795-812.
 Capozzi, M., Horn, J. & Kellen, A., 2012. Battle-test your innovation strategy. McKinsey Quarterly, December. 
 Cares, J. & Miskel, J., 2007. Take your third move first. Harvard Business Review, 85(3), pp. 20-21.
@@ -37,7 +38,6 @@ Geroski, P. A., 1999. Early Warning of New Rivals. Sloan Management Review, 40(3
 Green, K. C., 2005. Further evidence on game theory, simulated interaction, and unaided judgement for forecasting decisions in conflicts. International Journal of Forecasting, 21(3), pp. 463-472.
 Hamel, G. & Prahalad, C., 1994. Competing for the Future. Harvard Business Review, 72(4).
 Horn, J., 2011. Playing war games to win. McKinsey Quarterly, March. 
-Kurtz, J., 2003. Business Wargaming: Simulations Guide Crucial Strategy Decisions. Strategy & Leadership, 31(6), pp. 12-21.
 Lehr, T., Lorenz, U., Willert, M. & Rohrbeck, R., 2017. Scenario-based strategizing: Advancing the applicability in strategists' teams. Technological Forecasting & Social Change, Volume 124, pp. 214-224.
 Perla, P. D., 2018. The Art and Science of Wargaming to Innovate and Educate in an Era of Strategic Competition. London, King's College London Wargaming Network.
 Perla, P. D. & McGrady, E. D., 2011. Why wargaming works. Newport, RI: Naval War College.
