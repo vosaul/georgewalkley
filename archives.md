@@ -10,7 +10,7 @@ permalink: /archives/
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
            {% unless forloop.first %}</ul>{% endunless %}
-           <h4>{{ currentDate }}</h4>
+           <h3>{{ currentDate }}</h3>
            <ul>
            {% assign myDate = currentDate %}
        {% endif %}
