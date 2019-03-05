@@ -34,7 +34,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Rafael Popper, [How Are Foresight Methods Selected?](https://www.emeraldinsight.com/doi/abs/10.1108/14636680810918586), *Foresight*, 10(6), pp. 62-89, 2008
 * Jan Oliver Schwarz, [Ex Ante Strategy Evaluation: the Case for Business Wargaming](https://www.emeraldinsight.com/doi/abs/10.1108/17515631111130095), *Business Strategy Series*, 12(3), pp. 122-135, 2011
 * Jan Oliver Schwarz, [Business Wargaming for Teaching Strategy Making](https://www.sciencedirect.com/science/article/pii/S0016328713000864), *Futures*, 51, pp. 59-66, 2013
-* Jan Oliver Schwarz, Cornelia Ram & Ren$\'{e}$ Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp. 133-142, 2019
+* Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp. 133-142, 2019
 
 
 <!--
