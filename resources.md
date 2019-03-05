@@ -10,7 +10,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 
 * Cliff Bowman & Paul Raspin, [What's Your Competitive Advantage: 7 Strategies for Running a More Profitable Business in a Complex World](https://amzn.to/2EQj1Rn), London: FT Publishing International, 2018
 * Erik Elgersma, [The Strategic Analysis Cycle Tool Book: How Advanced Data Collection and Analysis Underpins Winning Strategies](https://amzn.to/2VvX5A9), London: Lid Publishing, 2017
-* Lawrence Freedman, [Strategy: a History](https://amzn.to/2C4quKL), Oxford: Oxford University Press, 2013
+* Lawrence Freedman, [Strategy](https://amzn.to/2C4quKL), Oxford: Oxford University Press, 2013
 * Benjamin Gilad, [Business War Games: How Large, Small and New Companies Can Vastly Improve Their Strategies and Outmaneuver the Competition](https://amzn.to/2GRreXq), Pompton Plains, NJ: The Career Press, 2009
 * Pat Harrigan & Mathew Kirschenbaum, [Zones of Control: Perspectives on Wargaming](https://amzn.to/2TbDB7p), Cambridge, MA: The MIT Press, 2016
 * Mark Herman, Mark Frost & Robert Kurtz, [Wargaming for Leaders: Strategic Decision Making from the Battlefield to the Boardroom](https://amzn.to/2VBJsQh), New York: McGraw Hill, 2009
