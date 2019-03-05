@@ -6,7 +6,7 @@ permalink: /resources/
 
 This page is a work-in-progress list of books, journal articles and other resources that I have found useful on strategy, wargaming (in business, military and recreational contexts), scenario planning and futures. Comments and suggestions for further reading would be welcomed, by [email](mailto:contact@businesswargames.org) or [Twitter](https://twitter.com/buswargames). 
 
-#### Books
+### Books
 
 * Cliff Bowman & Paul Raspin, [What's Your Competitive Advantage: 7 Strategies for Running a More Profitable Business in a Complex World](https://amzn.to/2EQj1Rn), London: FT Publishing International, 2018
 * Erik Elgersma, [The Strategic Analysis Cycle Tool Book: How Advanced Data Collection and Analysis Underpins Winning Strategies](https://amzn.to/2VvX5A9), London: Lid Publishing, 2017
@@ -24,7 +24,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Philip Sabin, [Simulating War: Studying Conflict Through Simulation Games](https://amzn.to/2SCMAcL), London: Bloomsbury Academic, 2014
 * Micah Zenko, [Red Team: How to Succeed by Thinking Like the Enemy](https://amzn.to/2BV6Twr), New York: Basic Books, 2015
 
-#### Journal Articles
+### Journal Articles
 
 * Mie Augier, Nicholas Dew, Thorbjørn Knudsen & Nils Stieglitz, [Organizational Persistence in the Use of War Gaming and Scenario Planning](https://www.sciencedirect.com/science/article/abs/pii/S0024630117305125), *Long Range Planning*, 51(4), pp. 511-525, 2018
 * Jeff Cares & Jim Miskel, [Take Your Third Move First](https://hbr.org/2007/03/take-your-third-move-first), *Harvard Business Review*, 85(3), pp. 20-21, 2007
@@ -70,4 +70,4 @@ Available at: http://knowledge.wharton.upenn.edu/article/role-playing-as-a-forec
 [Accessed 10 July 2018].
 -->
 
-#### Other Resources
+### Other Resources
