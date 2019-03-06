@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farsighted &#58; How We Make the Decisions That Matter the Most
+title: Farsighted&#58; How We Make the Decisions That Matter the Most
 ---
 
 Steven Johnson is an American journalist and writer specialising in science, technology and culture. His ninth book, [Farsighted: How We Make the Decisions That Matter the Most](https://amzn.to/2TlWqVD), is an entertaining popular exploration of how to make better long-term decisions. 
