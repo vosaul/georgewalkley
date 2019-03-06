@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farsighted - How We Make the Decisions That Matter the Most
+title: Farsighted &#58; How We Make the Decisions That Matter the Most
 ---
 
 Steven Johnson is an American journalist and writer specialising in science, technology and culture. His ninth book, [Farsighted: How We Make the Decisions That Matter the Most](https://amzn.to/2TlWqVD), is an entertaining popular exploration of how to make better long-term decisions. 
@@ -15,11 +15,11 @@ The content and conclusion to the games section reflects the general audience of
 
 This view leads into a longer discussion of narrative-based techniques, including Scenario Planning and the role of fiction. Johnson's argument that science fiction is a valuable technique for envisioning futures is not surprising and has been explored elsewhere[^4]. More so was his focus on literary fiction as a way of getting inside a character's head and exploring their decisions: the book ends with an extended reflection on Eliot's *Middlemarch* from the perspectives of protagonist and author. Whether one agrees with Johnson's conclusion that "More than any other creative form, novels give us an opportunity to simulate and rehearse the hard choices of life"[^5] is a subjective matter.
 
-The combination of a polymathic author and a short book aimed at a general audience means that it is inevitably, but sometimes frustratingly, short on detail. In particular, the wargames section does not contain enough to recommend it to someone primarily interested in that subject, and the book does not adequately consider how techniques can be used in combination, for example using narratives and scenarios to define potential futures, and then wargames and simulations to explore strategy and actions within those contexts[^6]. However, . As a short overview of decision-making it is entertaining and the breadth of examples and sources is such that most readers will find something new. 
+The combination of a polymathic author and a short book aimed at a general audience means that it is inevitably, but sometimes frustratingly, short on detail. In particular, the wargames section does not contain enough to recommend it to someone primarily interested in that subject, and the book does not adequately consider how techniques can be used in combination, for example using narratives and scenarios to define potential futures, and then wargames and simulations to explore strategy and actions within those contexts[^6]. However, these shortcomings are from the point of view of a specialist reader. As a short overview of decision-making it is entertaining and the breadth of examples and sources is such that most readers will find something informative. 
 
-[^1]: *Farsighted*, pp. 104-111
-[^2]: *Farsighted*, p. 110
-[^3]: *Farsighted*, p. 111
+[^1]: *Farsighted*, pp.104-111
+[^2]: *Farsighted*, p.110
+[^3]: *Farsighted*, p.111
 [^4]: Examples include Eliot Peper, [Why Business Readers Need to Read More Science Fiction](https://hbr.org/2017/07/why-business-leaders-need-to-read-more-science-fiction), *Harvard Business Review*, 2017; and Brian David Johnson, [Science Fiction for Prototyping: Designing the Future with Science Fiction](https://amzn.to/2H1cMMR), San Rafael, CA: Morgan & Claypool, 2011
-[^5]: *Farsighted*, p. 211
-[^6]: See Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp. 133-142, 2019
+[^5]: *Farsighted*, p.211
+[^6]: See Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp.133-142, 2019
