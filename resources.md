@@ -27,21 +27,24 @@ This page is a work-in-progress list of books, journal articles and other resour
 ### Journal Articles
 
 * Mie Augier, Nicholas Dew, Thorbjørn Knudsen & Nils Stieglitz, [Organizational Persistence in the Use of War Gaming and Scenario Planning](https://www.sciencedirect.com/science/article/abs/pii/S0024630117305125), *Long Range Planning*, 51(4), pp. 511-525, 2018
+* Ron Bradfield, George Wright, George Burt, George Cairns & Kees van der Heijden, [The Origins and Evolution of Scenario Techniques in Long Range Business Planning](https://www.sciencedirect.com/science/article/pii/S0016328705000042), *Futures*, 37, pp.795-812, 2005
+* Marla Capozzi, John Horn & Ari Kellen, [Battle-Test Your Innovation Strategy](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/battle-test-your-innovation-strategy), *McKinsey Quarterly*, December 2012. 
 * Jeff Cares & Jim Miskel, [Take Your Third Move First](https://hbr.org/2007/03/take-your-third-move-first), *Harvard Business Review*, 85(3), pp. 20-21, 2007
 * Mark Chussil, [Learning Faster Than the Competition: War Games Give the Advantage](https://www.emeraldinsight.com/doi/abs/10.1108/02756660710723198), *Journal of Business Strategy*, 28(1), pp. 37-44, 2007
-* Arnoud Franken & Harry Thomsett, [When It Takes a Network: Creating Strategy and Agility Through Wargaming](https://journals.sagepub.com/doi/abs/10.1525/cmr.2013.55.3.107), *California Management Review*, 55(3), pp. 107-133, 2017
-* Jay Kurtz, [Business Wargaming: Simulations Guide Crucial Strategy Decisions](https://www.emeraldinsight.com/doi/abs/10.1108/10878570310505550). *Strategy & Leadership*, 31(6), pp. 12-21, 2003
-* Rafael Popper, [How Are Foresight Methods Selected?](https://www.emeraldinsight.com/doi/abs/10.1108/14636680810918586), *Foresight*, 10(6), pp. 62-89, 2008
-* Jan Oliver Schwarz, [Ex Ante Strategy Evaluation: the Case for Business Wargaming](https://www.emeraldinsight.com/doi/abs/10.1108/17515631111130095), *Business Strategy Series*, 12(3), pp. 122-135, 2011
-* Jan Oliver Schwarz, [Business Wargaming for Teaching Strategy Making](https://www.sciencedirect.com/science/article/pii/S0016328713000864), *Futures*, 51, pp. 59-66, 2013
-* Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp. 133-142, 2019
+* Kevin Coyne & John Horn, [Predicting Your Competitor’s Reaction](https://hbr.org/2009/04/predicting-your-competitors-reaction), *Harvard Business Review*, 87(4), pp.90-97, 2009
+* Arnoud Franken & Harry Thomsett, [When It Takes a Network: Creating Strategy and Agility Through Wargaming](https://journals.sagepub.com/doi/abs/10.1525/cmr.2013.55.3.107), *California Management Review*, 55(3), pp.107-133, 2017
+* Jay Kurtz, [Business Wargaming: Simulations Guide Crucial Strategy Decisions](https://www.emeraldinsight.com/doi/abs/10.1108/10878570310505550). *Strategy & Leadership*, 31(6), pp.12-21, 2003
+* Rafael Popper, [How Are Foresight Methods Selected?](https://www.emeraldinsight.com/doi/abs/10.1108/14636680810918586), *Foresight*, 10(6), pp.62-89, 2008
+* René Rohrbeck & Menes Etingue Kum, [Corporate Foresight and its Impact on Firm Performance: A Longitudinal Analysis](https://www.sciencedirect.com/science/article/pii/S0040162517302287), *Technological Forecasting & Social Change*, 129, pp.105-116, 2018
+* René Rohrbeck & Jan Oliver Schwarz, [The Value Contribution of Strategic Foresight: Insights from an Empirical Study of Large European Companies](https://www.sciencedirect.com/science/article/pii/S004016251300005X), *Technological Forecasting and Social Change*, 80(8), pp.1593-1606, 2013
+* Jan Oliver Schwarz, [Ex Ante Strategy Evaluation: the Case for Business Wargaming](https://www.emeraldinsight.com/doi/abs/10.1108/17515631111130095), *Business Strategy Series*, 12(3), pp.122-135, 2011
+* Jan Oliver Schwarz, [Business Wargaming for Teaching Strategy Making](https://www.sciencedirect.com/science/article/pii/S0016328713000864), *Futures*, 51, pp.59-66, 2013
+* Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp.133-142, 2019
+* Pierre Wack, [Scenarios: Shooting the Rapids](https://hbr.org/1985/11/scenarios-shooting-the-rapids), *Harvard Business Review*, 63(6), 1985
+* Pierre Wack, [Scenarios: Uncharted Waters Ahead](https://hbr.org/1985/09/scenarios-uncharted-waters-ahead), *Harvard Business Review*, 63(5), 1985
 
 
 <!--
-Bradfield, R. et al., 2005. The origins and evolution of scenario techniques in long range business planning. Futures, Issue 37, pp. 795-812.
-Capozzi, M., Horn, J. & Kellen, A., 2012. Battle-test your innovation strategy. McKinsey Quarterly, December. 
-Cares, J. & Miskel, J., 2007. Take your third move first. Harvard Business Review, 85(3), pp. 20-21.
-Coyne, K. & Horn, J., 2009. Predicting Your Competitor’s Reaction. Harvard Business Review, 87(4), pp. 90-97.
 Development, Concepts and Doctrine Centre, 2017. Wargaming Handbook. Shrivenham: Ministry of Defence.
 Franken, A., 2014. Wargaming in Business: Crossing the Chasm. London, Connections UK.
 Geroski, P. A., 1999. Early Warning of New Rivals. Sloan Management Review, 40(3), pp. 107-108.
@@ -53,8 +56,6 @@ Perla, P. D., 2018. The Art and Science of Wargaming to Innovate and Educate in 
 Perla, P. D. & McGrady, E. D., 2011. Why wargaming works. Newport, RI: Naval War College.
 Popper, R., 2008. How are foresight methods selected?. Foresight, 10(6), pp. 62-89.
 Ramírez, R., Churchhouse, S., Palermo, A. & Hoffmann, J., 2017. Using scenario planning to reshape strategy. MIT Sloan Management Review, Volume 58.
-Rohrbeck, R. & Kum, M. E., 2018. Corporate foresight and its impact on firm performance: A longitudinal analysis. Technological Forecasting & Social Change, Volume 129, pp. 105-116.
-Rohrbeck, R. & Schwarz, J. O., 2013. The value contribution of strategic foresight: Insights from an empirical study of large European companies. Technological Forecasting and Social Change, 80(8), pp. 1593-1606.
 Roxburgh, C., 2009. The use and abuse of scenarios. McKinsey Quarterly, November. 
 Rubel, R. C., 2006. The Epistemology of War Gaming. Naval War College Review, 59(2), pp. 108-128.
 Scherpereel, C. M., 2003. The Impact of Business War Games: Quantifying Training Effectiveness. Developments in Business Simulation and Experiential Learning, Volume 30, pp. 69-82.
@@ -62,8 +63,6 @@ Scherpereel, C. M., 2005. Changing mental models: Business simulation exercises.
 Scherpereel, C. M., 2005. Decision Making in Business Simulation Design. Developments in Business Simulations and Experiential Learning, Volume 32, pp. 273-282.
 Schwarz, J. O. & Rohrbeck, R., 2013. Introducing the Competitive Dimension to Corporate Foresight. Helsinki, ISPIM Conference.
 Treat, J. E., Thibault, G. E. & Asin, A., 1996. Dynamic Competitive Simulation: Wargaming as a Strategic Tool. strategy+business, April. 
-Wack, P., 1985. Scenarios: Shooting the Rapids. Harvard Business Review, 63(6).
-Wack, P., 1985. Scenarios: Uncharted Waters Ahead. Harvard Business Review, 63(5).
 Watkins, M. D. & Bazerman, M. H., 2003. Predictable Surprises: The Disasters You Should Have Seen Coming. Harvard Business Review, 81(3), pp. 72-85.
 Wharton School, 1999. Role Playing as a Forecasting Tool. [Online] 
 Available at: http://knowledge.wharton.upenn.edu/article/role-playing-as-a-forecasting-tool/
