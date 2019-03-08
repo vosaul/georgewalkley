@@ -26,11 +26,11 @@ This page is a work-in-progress list of books, journal articles and other resour
 
 ### Journal Articles
 
-* Mie Augier, Nicholas Dew, Thorbjørn Knudsen & Nils Stieglitz, [Organizational Persistence in the Use of War Gaming and Scenario Planning](https://www.sciencedirect.com/science/article/abs/pii/S0024630117305125), *Long Range Planning*, 51(4), pp. 511-525, 2018
+* Mie Augier, Nicholas Dew, Thorbjørn Knudsen & Nils Stieglitz, [Organizational Persistence in the Use of War Gaming and Scenario Planning](https://www.sciencedirect.com/science/article/abs/pii/S0024630117305125), *Long Range Planning*, 51(4), pp.511-525, 2018
 * Ron Bradfield, George Wright, George Burt, George Cairns & Kees van der Heijden, [The Origins and Evolution of Scenario Techniques in Long Range Business Planning](https://www.sciencedirect.com/science/article/pii/S0016328705000042), *Futures*, 37, pp.795-812, 2005
 * Marla Capozzi, John Horn & Ari Kellen, [Battle-Test Your Innovation Strategy](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/battle-test-your-innovation-strategy), *McKinsey Quarterly*, December 2012. 
-* Jeff Cares & Jim Miskel, [Take Your Third Move First](https://hbr.org/2007/03/take-your-third-move-first), *Harvard Business Review*, 85(3), pp. 20-21, 2007
-* Mark Chussil, [Learning Faster Than the Competition: War Games Give the Advantage](https://www.emeraldinsight.com/doi/abs/10.1108/02756660710723198), *Journal of Business Strategy*, 28(1), pp. 37-44, 2007
+* Jeff Cares & Jim Miskel, [Take Your Third Move First](https://hbr.org/2007/03/take-your-third-move-first), *Harvard Business Review*, 85(3), pp.20-21, 2007
+* Mark Chussil, [Learning Faster Than the Competition: War Games Give the Advantage](https://www.emeraldinsight.com/doi/abs/10.1108/02756660710723198), *Journal of Business Strategy*, 28(1), pp.37-44, 2007
 * Kevin Coyne & John Horn, [Predicting Your Competitor’s Reaction](https://hbr.org/2009/04/predicting-your-competitors-reaction), *Harvard Business Review*, 87(4), pp.90-97, 2009
 * Arnoud Franken & Harry Thomsett, [When It Takes a Network: Creating Strategy and Agility Through Wargaming](https://journals.sagepub.com/doi/abs/10.1525/cmr.2013.55.3.107), *California Management Review*, 55(3), pp.107-133, 2017
 * Paul A. Geroski, [Early Warning of New Rivals](https://sloanreview.mit.edu/article/early-warning-of-new-rivals/), *Sloan Management Review*, 40(3), pp.107-108, 1999
@@ -44,10 +44,6 @@ This page is a work-in-progress list of books, journal articles and other resour
 * René Rohrbeck & Menes Etingue Kum, [Corporate Foresight and its Impact on Firm Performance: A Longitudinal Analysis](https://www.sciencedirect.com/science/article/pii/S0040162517302287), *Technological Forecasting & Social Change*, 129, pp.105-116, 2018
 * René Rohrbeck & Jan Oliver Schwarz, [The Value Contribution of Strategic Foresight: Insights from an Empirical Study of Large European Companies](https://www.sciencedirect.com/science/article/pii/S004016251300005X), *Technological Forecasting and Social Change*, 80(8), pp.1593-1606, 2013
 * Charles Roxburgh, [The Use and Abuse of Scenarios](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-use-and-abuse-of-scenarios), *McKinsey Quarterly*, November 2009. 
-<!-- Rubel, R. C., 2006. The Epistemology of War Gaming. Naval War College Review, 59(2), pp. 108-128.
-Scherpereel, C. M., 2003. The Impact of Business War Games: Quantifying Training Effectiveness. Developments in Business Simulation and Experiential Learning, Volume 30, pp. 69-82.
-Scherpereel, C. M., 2005. Changing mental models: Business simulation exercises. Simulation Gaming, Volume 36, pp. 388-403.
-Scherpereel, C. M., 2005. Decision Making in Business Simulation Design. Developments in Business Simulations and Experiential Learning, Volume 32, pp. 273-282. -->
 * Jan Oliver Schwarz, [Ex Ante Strategy Evaluation: the Case for Business Wargaming](https://www.emeraldinsight.com/doi/abs/10.1108/17515631111130095), *Business Strategy Series*, 12(3), pp.122-135, 2011
 * Jan Oliver Schwarz, [Business Wargaming for Teaching Strategy Making](https://www.sciencedirect.com/science/article/pii/S0016328713000864), *Futures*, 51, pp.59-66, 2013
 * Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp.133-142, 2019
@@ -55,7 +51,11 @@ Scherpereel, C. M., 2005. Decision Making in Business Simulation Design. Develop
 * Pierre Wack, [Scenarios: Shooting the Rapids](https://hbr.org/1985/11/scenarios-shooting-the-rapids), *Harvard Business Review*, 63(6), 1985
 * Pierre Wack, [Scenarios: Uncharted Waters Ahead](https://hbr.org/1985/09/scenarios-uncharted-waters-ahead), *Harvard Business Review*, 63(5), 1985
 * Michael D. Watkins & Max H. Bazerman, [Predictable Surprises: The Disasters You Should Have Seen Coming](https://hbr.org/2003/04/predictable-surprises-the-disasters-you-should-have-seen-coming), *Harvard Business Review*, 81(3), pp.72-85, 2003
-<!--
+<!-- 
+Rubel, R. C., 2006. The Epistemology of War Gaming. Naval War College Review, 59(2), pp. 108-128.
+Scherpereel, C. M., 2003. The Impact of Business War Games: Quantifying Training Effectiveness. Developments in Business Simulation and Experiential Learning, Volume 30, pp. 69-82.
+Scherpereel, C. M., 2005. Changing mental models: Business simulation exercises. Simulation Gaming, Volume 36, pp. 388-403.
+Scherpereel, C. M., 2005. Decision Making in Business Simulation Design. Developments in Business Simulations and Experiential Learning, Volume 32, pp. 273-282
 Development, Concepts and Doctrine Centre, 2017. Wargaming Handbook. Shrivenham: Ministry of Defence.
 Franken, A., 2014. Wargaming in Business: Crossing the Chasm. London, Connections UK.
 Green, K. C., 2005. Further evidence on game theory, simulated interaction, and unaided judgement for forecasting decisions in conflicts. International Journal of Forecasting, 21(3), pp. 463-472.
