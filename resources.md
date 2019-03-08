@@ -44,6 +44,10 @@ This page is a work-in-progress list of books, journal articles and other resour
 * René Rohrbeck & Menes Etingue Kum, [Corporate Foresight and its Impact on Firm Performance: A Longitudinal Analysis](https://www.sciencedirect.com/science/article/pii/S0040162517302287), *Technological Forecasting & Social Change*, 129, pp.105-116, 2018
 * René Rohrbeck & Jan Oliver Schwarz, [The Value Contribution of Strategic Foresight: Insights from an Empirical Study of Large European Companies](https://www.sciencedirect.com/science/article/pii/S004016251300005X), *Technological Forecasting and Social Change*, 80(8), pp.1593-1606, 2013
 * Charles Roxburgh, [The Use and Abuse of Scenarios](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-use-and-abuse-of-scenarios), *McKinsey Quarterly*, November 2009. 
+* Robert C. Rubel, [The Epistemology of War Gaming](https://digital-commons.usnwc.edu/nwc-review/vol59/iss2/8/), *Naval War College Review*, 59(2), pp.108-128, 2006
+* Christopher M. Scherpereel, [The Impact of Business War Games: Quantifying Training Effectiveness](https://journals.tdl.org/absel/index.php/absel/article/view/701), *Developments in Business Simulation and Experiential Learning*, 30, pp.69-82, 2003
+* Christopher M. Scherpereel, [Changing Mental Models: Business Simulation Exercises](https://journals.sagepub.com/doi/abs/10.1177/1046878104270005?journalCode=sagb), *Simulation Gaming*, 36, pp.388-403, 2005
+* Christopher M. Scherpereel, [Decision Making in Business Simulation Design](https://journals.tdl.org/absel/index.php/absel/article/view/592), *Developments in Business Simulations and Experiential Learning*, 32, pp.273-282, 2005
 * Jan Oliver Schwarz, [Ex Ante Strategy Evaluation: the Case for Business Wargaming](https://www.emeraldinsight.com/doi/abs/10.1108/17515631111130095), *Business Strategy Series*, 12(3), pp.122-135, 2011
 * Jan Oliver Schwarz, [Business Wargaming for Teaching Strategy Making](https://www.sciencedirect.com/science/article/pii/S0016328713000864), *Futures*, 51, pp.59-66, 2013
 * Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp.133-142, 2019
@@ -52,10 +56,6 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Pierre Wack, [Scenarios: Uncharted Waters Ahead](https://hbr.org/1985/09/scenarios-uncharted-waters-ahead), *Harvard Business Review*, 63(5), 1985
 * Michael D. Watkins & Max H. Bazerman, [Predictable Surprises: The Disasters You Should Have Seen Coming](https://hbr.org/2003/04/predictable-surprises-the-disasters-you-should-have-seen-coming), *Harvard Business Review*, 81(3), pp.72-85, 2003
 <!-- 
-Rubel, R. C., 2006. The Epistemology of War Gaming. Naval War College Review, 59(2), pp. 108-128.
-Scherpereel, C. M., 2003. The Impact of Business War Games: Quantifying Training Effectiveness. Developments in Business Simulation and Experiential Learning, Volume 30, pp. 69-82.
-Scherpereel, C. M., 2005. Changing mental models: Business simulation exercises. Simulation Gaming, Volume 36, pp. 388-403.
-Scherpereel, C. M., 2005. Decision Making in Business Simulation Design. Developments in Business Simulations and Experiential Learning, Volume 32, pp. 273-282
 Development, Concepts and Doctrine Centre, 2017. Wargaming Handbook. Shrivenham: Ministry of Defence.
 Franken, A., 2014. Wargaming in Business: Crossing the Chasm. London, Connections UK.
 Green, K. C., 2005. Further evidence on game theory, simulated interaction, and unaided judgement for forecasting decisions in conflicts. International Journal of Forecasting, 21(3), pp. 463-472.
