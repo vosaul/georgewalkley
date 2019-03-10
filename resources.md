@@ -17,6 +17,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Bryce G. Hoffman, [Red Teaming: Transform Your Business by Thinking Like the Enemy](https://amzn.to/2BZvWhV), London: Piatkus, 2017
 * Steven Johnson, [Farsighted: How We Make the Decisions That Matter the Most](https://amzn.to/2Vq6DN8), London: John Murray, 2018
 * Jane McGonigal, [Reality is Broken: Why Games Make Us Better and How They Can Change the World](https://amzn.to/2GVrqF4), London: Vintage Books, 2012
+* Richard Normann & Rafael Ramírez, [Designing Interactive Strategy: From Value Chain to Value Constellation](https://amzn.to/2NSVIJk), Chichester: John Wiley, 1994
 * Daniel F. Oriesek & Jan Oliver Schwarz, [Business Wargaming: Securing Corporate Value](https://amzn.to/2BZpVlm), Farnham: Gower, 2008
 * Peter Perla, [The Art of Wargaming](https://amzn.to/2EINCjz), Keynsham: History of Wargaming Project, 2012
 * Michael Porter, [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://amzn.to/2NG2xOc), New York: Free Press, 2004
