@@ -3,7 +3,7 @@ layout: post
 title: Brexit Games in Hindsight 
 ---
 
-Brexit has seldom been far from my thoughts this year, both as a ~~news junkie~~ informed citizen, and as a corporate executive exploring the immediate impacts and strategic implications for my employer. This week, it crossed over with my interest in business wargaming.
+Brexit has seldom been far from my thoughts this year, both as ~~a news junkie~~ an informed citizen, and as a corporate executive exploring the immediate impacts and strategic implications for my employer. This week, it crossed over with my interest in business wargaming.
 
 Reading around the issues, [I came across a report from the Eurosceptic think tank Open Europe [on a series of wargames that it organised in 2016 on Britain's relationship with Europe](http://2ihmoy1d3v7630ar9h2rsglp-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/A4_Report-EU_War_Games-Digital-Ve1-FINAL.pdf)[^1]. The stakeholders were played by senior, largely centre-right, policy makers from European countries: the UK players were former Foreign Secretary Sir Malcolm Rifkind and former Chancellor of the Exchequer Lord Lamont ([an earlier, 2013 game featured a serving Leave-supporting minister, Andrea Leadsom, as the UK player](https://www.bbc.co.uk/news/av/uk-politics-25401335/eu-referendum-playing-war-games-over-uk-future)).
 
