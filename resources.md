@@ -9,14 +9,17 @@ This page is a work-in-progress list of books, journal articles and other resour
 ### Books
 
 * Cliff Bowman & Paul Raspin, [What's Your Competitive Advantage: 7 Strategies for Running a More Profitable Business in a Complex World](https://amzn.to/2EQj1Rn), London: FT Publishing International, 2018
+* Jan-Philipp Büchler, [Business Wargaming für Mergers & Acquisitions: Systematischer Einsatz im Strategie- und Akquisitionsprozess](https://amzn.to/2LdX1Vy), Wiesbaden: Springer Fachmedien Wiesbaden GmbH, 2017
 * Erik Elgersma, [The Strategic Analysis Cycle Tool Book: How Advanced Data Collection and Analysis Underpins Winning Strategies](https://amzn.to/2VvX5A9), London: Lid Publishing, 2017
 * Lawrence Freedman, [Strategy](https://amzn.to/2C4quKL), Oxford: Oxford University Press, 2013
+* Ari de Geus, [The Living Company: Habits for Survival in a Turbulent Business Environment](https://amzn.to/2VGCWLB), Cambridge, MA: Harvard Business School Publishing, 2002
 * Benjamin Gilad, [Business War Games: How Large, Small and New Companies Can Vastly Improve Their Strategies and Outmaneuver the Competition](https://amzn.to/2GRreXq), Pompton Plains, NJ: The Career Press, 2009
 * Pat Harrigan & Mathew Kirschenbaum, [Zones of Control: Perspectives on Wargaming](https://amzn.to/2TbDB7p), Cambridge, MA: The MIT Press, 2016
 * Mark Herman, Mark Frost & Robert Kurtz, [Wargaming for Leaders: Strategic Decision Making from the Battlefield to the Boardroom](https://amzn.to/2VBJsQh), New York: McGraw Hill, 2009
 * Bryce G. Hoffman, [Red Teaming: Transform Your Business by Thinking Like the Enemy](https://amzn.to/2BZvWhV), London: Piatkus, 2017
 * Steven Johnson, [Farsighted: How We Make the Decisions That Matter the Most](https://amzn.to/2Vq6DN8), London: John Murray, 2018
 * Jane McGonigal, [Reality is Broken: Why Games Make Us Better and How They Can Change the World](https://amzn.to/2GVrqF4), London: Vintage Books, 2012
+* Scott Moeller & Chris Brady, [Intelligent M&A: Navigating the Mergers and Acquisitions Minefield](https://amzn.to/2LbGqSe), Chichester: John Wiley, 2014
 * Richard Normann & Rafael Ramírez, [Designing Interactive Strategy: From Value Chain to Value Constellation](https://amzn.to/2NSVIJk), Chichester: John Wiley, 1994
 * Daniel F. Oriesek & Jan Oliver Schwarz, [Business Wargaming: Securing Corporate Value](https://amzn.to/2BZpVlm), Farnham: Gower, 2008
 * Peter Perla, [The Art of Wargaming](https://amzn.to/2EINCjz), Keynsham: History of Wargaming Project, 2012
