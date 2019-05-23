@@ -25,6 +25,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Peter Perla, [The Art of Wargaming](https://amzn.to/2EINCjz), Keynsham: History of Wargaming Project, 2012
 * Michael Porter, [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://amzn.to/2NG2xOc), New York: Free Press, 2004
 * Rafael Ramírez & Angela Wilkinson, [Strategic Reframing: The Oxford Scenario Planning Approach](https://amzn.to/2T8W7xl), Oxford: Oxford University Press, 2014
+* Condoleezza Rice & Amy Zegart, [Political Risk: Facing the Threat of Global Insecurity in the Twenty-First Century](https://amzn.to/2HyQT6r), London: Weidenfeld & Nicolson, 2018
 * Philip Sabin, [Simulating War: Studying Conflict Through Simulation Games](https://amzn.to/2SCMAcL), London: Bloomsbury Academic, 2014
 * Micah Zenko, [Red Team: How to Succeed by Thinking Like the Enemy](https://amzn.to/2BV6Twr), New York: Basic Books, 2015
 
