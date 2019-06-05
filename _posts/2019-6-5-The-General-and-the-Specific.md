@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The General and the Specific
-featured_img: /images/gaddis.jpg
 ---
 
 I've been alternating between reading some fairly specialist books on wargaming and futures and more general books on strategy, competition and decision-making. The latter category frequently offer broader context and insights. The most recent example of this is John Lewis Gaddis's [On Grand Strategy](https://amzn.to/2QWDngd), a book on the history of states, warfare and diplomacy:
