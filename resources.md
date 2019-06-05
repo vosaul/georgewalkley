@@ -10,8 +10,10 @@ This page is a work-in-progress list of books, journal articles and other resour
 
 * Cliff Bowman & Paul Raspin, [What's Your Competitive Advantage: 7 Strategies for Running a More Profitable Business in a Complex World](https://amzn.to/2EQj1Rn), London: FT Publishing International, 2018
 * Jan-Philipp Büchler, [Business Wargaming für Mergers & Acquisitions: Systematischer Einsatz im Strategie- und Akquisitionsprozess](https://amzn.to/2LdX1Vy), Wiesbaden: Springer Fachmedien Wiesbaden GmbH, 2017
+* Matthew Caffery, [On Wargaming: How Wargames Have Shaped History and How They May Shape the Future](), Newport, RI: Naval War College Press, 2019
 * Erik Elgersma, [The Strategic Analysis Cycle Tool Book: How Advanced Data Collection and Analysis Underpins Winning Strategies](https://amzn.to/2VvX5A9), London: Lid Publishing, 2017
 * Lawrence Freedman, [Strategy](https://amzn.to/2C4quKL), Oxford: Oxford University Press, 2013
+* John Lewis Gaddis, [On Grand Strategy](https://amzn.to/2QWDngd), London: Allen Lane, 2018 
 * Ari de Geus, [The Living Company: Habits for Survival in a Turbulent Business Environment](https://amzn.to/2VGCWLB), Cambridge, MA: Harvard Business School Publishing, 2002
 * Benjamin Gilad, [Business War Games: How Large, Small and New Companies Can Vastly Improve Their Strategies and Outmaneuver the Competition](https://amzn.to/2GRreXq), Pompton Plains, NJ: The Career Press, 2009
 * Pat Harrigan & Mathew Kirschenbaum, [Zones of Control: Perspectives on Wargaming](https://amzn.to/2TbDB7p), Cambridge, MA: The MIT Press, 2016
@@ -27,6 +29,8 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Rafael Ramírez & Angela Wilkinson, [Strategic Reframing: The Oxford Scenario Planning Approach](https://amzn.to/2T8W7xl), Oxford: Oxford University Press, 2014
 * Condoleezza Rice & Amy Zegart, [Political Risk: Facing the Threat of Global Insecurity in the Twenty-First Century](https://amzn.to/2HyQT6r), London: Weidenfeld & Nicolson, 2018
 * Philip Sabin, [Simulating War: Studying Conflict Through Simulation Games](https://amzn.to/2SCMAcL), London: Bloomsbury Academic, 2014
+* James Surowiecki, [The Wisdom of Crowds: Why the Many are Smarter Than the Few](https://amzn.to/2QPQsI8), London: Abacus, 2005
+* Philip Tetlock & Dan Gardner, [Superforecasting: The Art and Science of Prediction](https://amzn.to/2MruFHY), London: Random House, 2016
 * Micah Zenko, [Red Team: How to Succeed by Thinking Like the Enemy](https://amzn.to/2BV6Twr), New York: Basic Books, 2015
 
 ### Journal Articles
@@ -56,6 +60,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 * Jan Oliver Schwarz, [Ex Ante Strategy Evaluation: the Case for Business Wargaming](https://www.emeraldinsight.com/doi/abs/10.1108/17515631111130095), *Business Strategy Series*, 12(3), pp.122-135, 2011
 * Jan Oliver Schwarz, [Business Wargaming for Teaching Strategy Making](https://www.sciencedirect.com/science/article/pii/S0016328713000864), *Futures*, 51, pp.59-66, 2013
 * Jan Oliver Schwarz, Cornelia Ram & René Rohrbeck, [Combining Scenario Planning and Business Wargaming to Better Anticipate Future Competitive Dynamics](https://www.sciencedirect.com/science/article/pii/S0016328718300545), *Futures*, 105, pp.133-142, 2019
+* Matthew J. Spaniol, Christiana Bidmon, Anna B. Holm & René Rohrbeck, [Five Strategic Foresight Tools to Enhance Business Model Innovation Teaching](https://journals.aau.dk/index.php/JOBM/article/view/2637), *Journal of Business Models*, 7(2), 2019.
 * John E. Treat, George E. Thibault & Amy Asin, [Dynamic Competitive Simulation: Wargaming as a Strategic Tool](https://www.strategy-business.com/article/15052?gko=4d4c8), *strategy+business*, April 1996 
 * Pierre Wack, [Scenarios: Shooting the Rapids](https://hbr.org/1985/11/scenarios-shooting-the-rapids), *Harvard Business Review*, 63(6), 1985
 * Pierre Wack, [Scenarios: Uncharted Waters Ahead](https://hbr.org/1985/09/scenarios-uncharted-waters-ahead), *Harvard Business Review*, 63(5), 1985
