@@ -37,6 +37,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 
 * Mie Augier, Nicholas Dew, Thorbjørn Knudsen & Nils Stieglitz, [Organizational Persistence in the Use of War Gaming and Scenario Planning](https://www.sciencedirect.com/science/article/abs/pii/S0024630117305125), *Long Range Planning*, 51(4), pp.511-525, 2018
 * Ivanka Barzashka, [Wargaming: How to Turn Vogue into Science](https://thebulletin.org/2019/03/wargaming-how-to-turn-vogue-into-science/?fbclid=IwAR3w7bHVo4kHQw-CXSJwFgDE9RRuhiWMnjfGClUV-TJO748S6-VYo4XSjGE), *Bulletin of the Atomic Scientists*, 2019
+* Ivanka Barzashka, [Five Theoretical Challenges for Analytical Wargaming](https://thebulletin.org/2019/03/five-theoretical-challenges-for-analytical-wargaming/), *Bulletin of the Atomic Scientists*, 2019
 * Ron Bradfield, George Wright, George Burt, George Cairns & Kees van der Heijden, [The Origins and Evolution of Scenario Techniques in Long Range Business Planning](https://www.sciencedirect.com/science/article/pii/S0016328705000042), *Futures*, 37, pp.795-812, 2005
 * Marla Capozzi, John Horn & Ari Kellen, [Battle-Test Your Innovation Strategy](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/battle-test-your-innovation-strategy), *McKinsey Quarterly*, December 2012. 
 * Jeff Cares & Jim Miskel, [Take Your Third Move First](https://hbr.org/2007/03/take-your-third-move-first), *Harvard Business Review*, 85(3), pp.20-21, 2007
