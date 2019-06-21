@@ -10,6 +10,7 @@ This page is a work-in-progress list of books, journal articles and other resour
 
 * Cliff Bowman & Paul Raspin, [What's Your Competitive Advantage: 7 Strategies for Running a More Profitable Business in a Complex World](https://amzn.to/2EQj1Rn), London: FT Publishing International, 2018
 * Jan-Philipp Büchler, [Business Wargaming für Mergers & Acquisitions: Systematischer Einsatz im Strategie- und Akquisitionsprozess](https://amzn.to/2LdX1Vy), Wiesbaden: Springer Fachmedien Wiesbaden GmbH, 2017
+* Stephen Bungay, [The Art of Action: How Leaders Close the Gaps between Plans, Actions and Results](https://amzn.to/2RsGpsG), London: Nicholas Brealey, 2010
 * Matthew Caffery, [On Wargaming: How Wargames Have Shaped History and How They May Shape the Future](), Newport, RI: Naval War College Press, 2019
 * Erik Elgersma, [The Strategic Analysis Cycle Tool Book: How Advanced Data Collection and Analysis Underpins Winning Strategies](https://amzn.to/2VvX5A9), London: Lid Publishing, 2017
 * Lawrence Freedman, [Strategy](https://amzn.to/2C4quKL), Oxford: Oxford University Press, 2013
