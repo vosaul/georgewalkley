@@ -1,5 +1,0 @@
-Readers may be interested in this week's episode of The Bottom Line on BBC Radio 4, which discusses how businesses should plan for uncertainty.
-
-The programme interviews senior figures from [Control Risks](https://www.controlrisks.com/who-we-are/our-experts/expert-bio/nick-allan), [Sungard AS](https://www.sungardas.com/en-GB/), and [the head of Shell's scenarios team](https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/meet-the-shell-scenarios-team.html), and discusses how businesses should plan for uncertainty. In addition to providing an overview of scenario planning, there is a specific discussion around twelve minutes in on the importance of decision makers building situational awareness and an ability to make decisions based on imperfect information, something which business wargames can help to develop. A few moments later the conversation touches on wargames specifically, in terms of their adversarial nature and ability to represent multiple opposing forces. 
-
-Overall it is an interesting, if brief, overview. [The programme is available as a podcast here](https://www.bbc.co.uk/programmes/m0003jsm).
