@@ -12,8 +12,8 @@ I publish a weekly email newsletter on media, innovation, venturing and strategy
 * "It certainly makes me better at what I do and what I want to do next."
 
 ### Newsletter Archives
-* [21 August 2019 (71): The TikTok Phenomenon, Corporate VC and Declining Innovation, and Dark Pattern Ecommerce]()
-* [14 August 2019 (70): Amazon Publishing, Tumblr's Collapsing Value, and the Invisible Drag on Innovation]()
+* [21 August 2019 (71): The TikTok Phenomenon, Corporate VC and Declining Innovation, and Dark Pattern Ecommerce](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=8162cb2268)
+* [14 August 2019 (70): Amazon Publishing, Tumblr's Collapsing Value, and the Invisible Drag on Innovation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=2308a2b149)
 * [11 January 2018 (69): Peloton’s Vertical Integration, the End of the Attention Economy, and Inside Raspberry Pi](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=38fb3a58b0)
 * [20 December 2018 (68): Job Opportunities, Corporate Jesters, and Management Lessons from Rock and Roll](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=b822866390)
 * [10 December 2018 (67): Science Fiction as a Strategy Tool, Maximising Digital Subscription Revenue, and Understanding Cap Tables](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=01473782e4)
