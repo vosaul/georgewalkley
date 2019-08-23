@@ -38,53 +38,48 @@ I publish a weekly email newsletter on media, innovation, venturing and strategy
 * [8 June 2018 (48): Marketing Lessons from Hamilton, Owning Your Distribution Channel, and Winners and Losers in Media](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=48fd935920)
 * [1 June 2018 (47): Understanding Tech CEOs, Three Perspectives on Corporate Venture Capital, and Forecasting Resources for Strategists](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=9a6a64165e)
 * [25 May 2018 (46): The End of Inflight Engineering, Spotify's Prospects, and a Day in the Life of an Innovation Team](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=c0932c8edc)
-
-<!--
-</ul>
-<h3>Year 1</h3>
-<ul>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0a3b5db6d8">17 May 2018: Innovation versus Entrepreneurship, the Real Benefit of Corporate Venture Capital, and Should Content Creators Trust Digital Platforms?</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=d3cdcfed4b">4 May 2018: Sizing Up Opportunities for Startups, Forecasting the Consumer App Market, and Creating the Conditions for Innovation</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=a03ffb54d3">27 April 2018: Media Turnarounds, Measuring Return on Innovation, and the Heuristics of Successful Entrepreneurs</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=58fe48d4a5">20 April 2018: Consumer Products and Microbrands, Challenges of Scale for Netflix, and Generation X in Digital Transformation</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=826c0270c0">12 April 2018: What Corporate Innovators Can Learn from the Maker Movement, Cisco on M&amp;A, and Perspectives on Spotify's IPO</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=ea0a2f8b14">29 March 2018: Craft Beer and Competitive Strategy, the Power of Founder Stories, and the Headwind/Tailwind Asymmetry Bias</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=787a73278f">22 March 2018: Valuing Spotify, Managing Innovation Failures, and the Power of Corporate Foresight</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=e557aac71b">16 March 2018: Purpose-driven Innovation, Blockchain for Publishers, and Why Silicon Valley Celebrates the Wrong Metrics</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=10e5081664">8 March 2018: YC on Due Diligence, Unpacking Dropbox's Business Model, and How Purpose Drives Growth at Patagonia</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=2660711938">1 March 2018: Platform Strategy, Fast Fashion for Toymakers, and Cognitive Biases in Investment Decisions</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=48d4eec22f">22 February 2018: Implementing Design Sprints, Networks versus Hierarchies and Reinventing Capitalism in the Age of Big Data</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=83247145a4">15 February 2018: Subscription Business Models, Older Entrepreneurs, and Why Companies Need More Modest Growth</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=f9c36975c9">8 February 2018: Why Paywalls Lead to Better Content, Growing Conversion Rates by Design, and Trojan Mice for Innovation</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=017c13d216">25 January 2018: The Benefits of Diverse Innovation Teams, Visualising the Media Landscape, and Amazon's Long-Term View</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=33f586d8e3">18 January 2018: Universities and Innovation, Strategy by AI, and the 7% Rule for Media Companies</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=f1bf3fb718">11 January 2018: AirBnB on Data, Corporate New Year's Resolutions, and the Rise of Alexa</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=722a0de4c7">3 January 2018: Innovating at Nintendo, Startups as Snowflakes, and M&amp;A Trends</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=18297d1a38">14 December 2017: 2018 Media Predictions, AI for Investors and Building a Company on Blockchain</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=a63009ea7a">7 December 2017: The Politics of Innovation, Modelling Venture Returns, and Why Stress Tests Aren't Just for Banks</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=cc295ca411">30 November 2017: Design-Driven Innovation, Technology Issues in M&amp;A Integration, and Two Case Studies in Media Diversification</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=b72d41098a">23 November 2017: The Turbulent State of Digital Media, Minimum Viable Branding, and Competing with GAFA</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=8511b0e047">16 November 2017: Rethinking Design Thinking, M&amp;A Prospects and Due Diligence for Crowdfunding</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0637bffd99">9 November 2017: A Tale of Two Media Companies, Ten Innovations to Stop and Think About, and How Activist Investors Hinder Diversity</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=735580a6ae">2 November 2017: Successful Failure, Reflections of a Female Founder, and Turning Customers into Lobbyists</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0842df7daf">26 October 2017: The Frightful Five, How Bad Systems Beat Good People, and Managing New Product Launches</a></li>
- 	<li><a href="https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=551c473e0c">18 October 2017: Growth Hacking, Building a Funnel for Innovation and the Triumph of the Albanian Army</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=db800a311e">12 October 2017: Innovation Lessons from the Mittelstand, M&amp;A in Germany and Funding the Challenges that Matter</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=d259247fd1">5 October 2017: Burn Rates, Cognitive Biases and Tim O'Reilly's New Book</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=3583669865">28 September 2017: A Real Slim Shady IPO, Microsoft's Turnaround and Innovation Lessons from Basketball</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=28c6fbabda">21 September 2017: Swarming Chatbots, Valuing Coffee Shops and Language as a Tool of Change</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=ce8767b63a">13 September 2017: Innovation in the Premier League, the Rise of Angel Investors and a New Approach to Business Strategy</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=82bb93beef">6 September 2017: Twenty Years of Disruptive Innovation, Starting a VC and How AI Drives Profit</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=c00a812f33">30 August 2017: Disrupting Organisations, Understanding Hype Cycles and Working With Absurd Ideas</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=6ffe98aa49">23 August 2017: How Facebook Stays Ahead, Fintech Investment and Netflix's First M&amp;A Deal</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=e9d7bbd7a1">3 August 2017: Summer Reading, CVC at BMW and Making Room for Misfits</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=1e711fa0f7">27 July 2017: Alexa, Schadenfreude and Luxury M&amp;A</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=21b06fcb6e">20 July 2017: Winter is Coming, Machine-Learning for VC and the Real Lessons from Kodak</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=e70180a3d1">13 July 2017: Pixar, Mapping Innovation Ecosystems and Death by Overfunding</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=d3b642e15b">6 July 2017: Slow Innovation, Funding Hardware and Avoiding Excruciating Decline</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=8de36dd4ab">29 June 2017: Tech for Good, Initial Coin Offerings and International Growth</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=7d7a14dc3d">22 June 2017: Crowdfunding, Whole Foods and How to Turn $12K into $16B</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=db5cffa772">15 June 2017: Apple, Red Teams and $100m Failure</a></li>
- 	<li><a href="https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=bd10b1085d">8 June 2017: Culture, Clickbait and High-Stakes Innovation</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=c811bcb98a">1 June 2017: The Buck Stops Here, Innovation Toolkits and Deep Tech</a></li>
- 	<li><a href="https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0bf150402f">25 May 2017: Walmart, Accelerators and Why Hackathons Don't Work</a></li> -->
+* [17 May 2018 (45): Innovation versus Entrepreneurship, the Real Benefit of Corporate Venture Capital, and Should Content Creators Trust Digital Platforms?](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0a3b5db6d8)
+* [4 May 2018 (44): Sizing Up Opportunities for Startups, Forecasting the Consumer App Market, and Creating the Conditions for Innovation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=d3cdcfed4b)
+* [27 April 2018 (43): Media Turnarounds, Measuring Return on Innovation, and the Heuristics of Successful Entrepreneurs](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=a03ffb54d3)
+* [20 April 2018 (42): Consumer Products and Microbrands, Challenges of Scale for Netflix, and Generation X in Digital Transformation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=58fe48d4a5)
+* [12 April 2018 (41): What Corporate Innovators Can Learn from the Maker Movement, Cisco on M&amp;A, and Perspectives on Spotify's IPO](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=826c0270c0)
+* [29 March 2018 (40): Craft Beer and Competitive Strategy, the Power of Founder Stories, and the Headwind/Tailwind Asymmetry Bias](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=ea0a2f8b14)
+* [22 March 2018 (39): Valuing Spotify, Managing Innovation Failures, and the Power of Corporate Foresight](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=787a73278f)">
+* [16 March 2018 (38): Purpose-driven Innovation, Blockchain for Publishers, and Why Silicon Valley Celebrates the Wrong Metrics](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=e557aac71b)
+* [8 March 2018 (37): YC on Due Diligence, Unpacking Dropbox's Business Model, and How Purpose Drives Growth at Patagonia](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=10e5081664)
+* [1 March 2018 (36): Platform Strategy, Fast Fashion for Toymakers, and Cognitive Biases in Investment Decisions](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=2660711938)
+* [22 February 2018 (35): Implementing Design Sprints, Networks versus Hierarchies and Reinventing Capitalism in the Age of Big Data](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=48d4eec22f)
+* [15 February 2018 (34): Subscription Business Models, Older Entrepreneurs, and Why Companies Need More Modest Growth](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=83247145a4)
+* [8 February 2018 (33): Why Paywalls Lead to Better Content, Growing Conversion Rates by Design, and Trojan Mice for Innovation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=f9c36975c9)
+* [25 January 2018 (32): The Benefits of Diverse Innovation Teams, Visualising the Media Landscape, and Amazon's Long-Term View](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=017c13d216)
+* [18 January 2018 (31): Universities and Innovation, Strategy by AI, and the 7% Rule for Media Companies](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=33f586d8e3)
+* [11 January 2018 (30): AirBnB on Data, Corporate New Year's Resolutions, and the Rise of Alexa](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=f1bf3fb718)
+* [3 January 2018 (29): Innovating at Nintendo, Startups as Snowflakes, and M&A Trends](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=722a0de4c7)
+* [14 December 2017 (28): 2018 Media Predictions, AI for Investors and Building a Company on Blockchain](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=18297d1a38)
+* [7 December 2017 (27): The Politics of Innovation, Modelling Venture Returns, and Why Stress Tests Aren't Just for Banks](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=a63009ea7a)
+* [30 November 2017 (26): Design-Driven Innovation, Technology Issues in M&amp;A Integration, and Two Case Studies in Media Diversification](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=cc295ca411)
+* [23 November 2017 (25): The Turbulent State of Digital Media, Minimum Viable Branding, and Competing with GAFA](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=b72d41098a)
+* [16 November 2017 (24): Rethinking Design Thinking, M&amp;A Prospects and Due Diligence for Crowdfunding](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=8511b0e047)
+* [9 November 2017 (23): A Tale of Two Media Companies, Ten Innovations to Stop and Think About, and How Activist Investors Hinder Diversity](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0637bffd99)
+* [2 November 2017 (22): Successful Failure, Reflections of a Female Founder, and Turning Customers into Lobbyists](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=735580a6ae)
+* [26 October 2017 (21): The Frightful Five, How Bad Systems Beat Good People, and Managing New Product Launches](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0842df7daf)
+* [18 October 2017 (20): Growth Hacking, Building a Funnel for Innovation and the Triumph of the Albanian Army](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&amp;id=551c473e0c)
+* [12 October 2017 (19): Innovation Lessons from the Mittelstand, M&amp;A in Germany and Funding the Challenges that Matter](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=db800a311e)
+* [5 October 2017 (18): Burn Rates, Cognitive Biases and Tim O'Reilly's New Book](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=d259247fd1)
+* [28 September 2017 (17): A Real Slim Shady IPO, Microsoft's Turnaround and Innovation Lessons from Basketball](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=3583669865)
+* [21 September 2017 (16): Swarming Chatbots, Valuing Coffee Shops and Language as a Tool of Change](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=28c6fbabda)
+* [13 September 2017 (15): Innovation in the Premier League, the Rise of Angel Investors and a New Approach to Business Strategy](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=ce8767b63a)
+* [6 September 2017 (14): Twenty Years of Disruptive Innovation, Starting a VC and How AI Drives Profit](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=82bb93beef)
+* [30 August 2017 (13): Disrupting Organisations, Understanding Hype Cycles and Working With Absurd Ideas](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=c00a812f33)
+* [23 August 2017 (12): How Facebook Stays Ahead, Fintech Investment and Netflix's First M&A Deal](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=6ffe98aa49)
+* [3 August 2017 (11): Summer Reading, CVC at BMW and Making Room for Misfits](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=e9d7bbd7a1)
+* [27 July 2017 (10): Alexa, Schadenfreude and Luxury M&A](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=1e711fa0f7)
+* [20 July 2017 (9): Winter is Coming, Machine-Learning for VC and the Real Lessons from Kodak](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=21b06fcb6e)
+* [13 July 2017 (8): Pixar, Mapping Innovation Ecosystems and Death by Overfunding](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=e70180a3d1)
+* [6 July 2017 (7): Slow Innovation, Funding Hardware and Avoiding Excruciating Decline](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=d3b642e15b)
+* [29 June 2017 (6): Tech for Good, Initial Coin Offerings and International Growth](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=8de36dd4ab)
+* [22 June 2017 (5): Crowdfunding, Whole Foods and How to Turn $12K into $16B](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=7d7a14dc3d)
+* [15 June 2017 (4): Apple, Red Teams and $100m Failure](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=db5cffa772)
+* [8 June 2017 (3): Culture, Clickbait and High-Stakes Innovation](https://us15.campaign-archive1.com/?u=808fdaa370fd1e21e55efda7d&amp;id=bd10b1085d)
+* [1 June 2017 (2): The Buck Stops Here, Innovation Toolkits and Deep Tech](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=c811bcb98a)
+* [25 May 2017 (1): Walmart, Accelerators and Why Hackathons Don't Work](https://us15.campaign-archive2.com/?u=808fdaa370fd1e21e55efda7d&amp;id=0bf150402f)
