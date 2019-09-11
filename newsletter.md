@@ -14,6 +14,7 @@ I publish a weekly email newsletter on things that interested me that week. [You
 
 ### Newsletter Archives
 
+* [11 September 2019 (74): Managing Risk, Innovation vs Compliance, and Corporate VC as a Hedge](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=a902a63518)
 * [4 September 2019 (73): "Weirdly Profitable", Innovation as Theft, and Why You Shouldn't Start a Business with Friends](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=2b9defaf7a)
 * [28 August 2019 (72): Prime Day Copycats, Startup Jobs, and Innovation Games](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=c11b51d0c3)
 * [21 August 2019 (71): The TikTok Phenomenon, Corporate VC and Declining Innovation, and Dark Pattern Ecommerce](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=8162cb2268)
