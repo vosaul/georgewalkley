@@ -14,6 +14,7 @@ I publish a weekly email newsletter on things that interested me that week. [You
 
 ### Newsletter Archives
 
+* [9 October 2019 (78): Behavioural Innovation, Playful CEOs, and the Beautiful Game](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=759a14092c)
 * [2 October 2019 (77): Instagram Novels, CGI Influencers and Dead Singers Touring](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=bfd81a6aa2)
 * [25 September 2019 (76): Moats and Competitive Strategy, Insecure CMOs, and Due Diligence on Corporate Investors](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=387417dd9d)
 * [18 September 2019 (75): Apple TV+, Product vs Engineering, and the Biggest Threat to Google](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=30871f956e)
