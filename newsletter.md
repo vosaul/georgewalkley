@@ -14,6 +14,7 @@ I publish a weekly email newsletter on things that interested me that week. [You
 
 ### Newsletter Archives
 
+* [13 November 2019 (82): The Digital Advertising Bubble, HP/Xerox, and the Future of Condé Nast](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=a10a055424)
 * [6 November 2019 (81): Attention Patterns, Minimum Lovable Products and Horizon Scanning in Innovation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=29995fdace)
 * [23 October 2019 (80): Employee Ideation, Luxury Goods, and Why Pinterest Stands out](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=9d6e7a2445)
 * [16 October 2019 (79): Business Bullshit, Understanding Amazon, and James Murdoch’s Vice](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=0b0a200de9)
