@@ -7,6 +7,7 @@ permalink: /newsletter/
 I publish a weekly email newsletter on things that interested me that week. [You can subscribe to it here](http://georgewalkley.us15.list-manage2.com/subscribe?u=808fdaa370fd1e21e55efda7d&amp;id=1dd0743f99). Readers describe it as:
 * "If you are into media, innovation, venturing and strategy and you aren't subscribed... then quite frankly you are an idiot."
 * "[A] must read weekly summary of important and interesting updates... You need this in your life - sign up."
+* "It's outrageous that this is free. I mean, it's top, top quality."
 * "Clear, concise, curated and clever."
 * "Unlike so many newsletters, filled with much more signal than noise."
 * "Interesting, eclectic and thought-provoking."
@@ -14,6 +15,7 @@ I publish a weekly email newsletter on things that interested me that week. [You
 
 ### Newsletter Archives
 
+* [20 November 2019 (83): The Subscription TV Landscape, Investing in Vice, and No-Bullshit Consulting](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=6cead6ea84)
 * [13 November 2019 (82): The Digital Advertising Bubble, HP/Xerox, and the Future of Condé Nast](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=a10a055424)
 * [6 November 2019 (81): Attention Patterns, Minimum Lovable Products and Horizon Scanning in Innovation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=29995fdace)
 * [23 October 2019 (80): Employee Ideation, Luxury Goods, and Why Pinterest Stands out](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=9d6e7a2445)
