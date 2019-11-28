@@ -15,6 +15,7 @@ I publish a weekly email newsletter on things that interested me that week. [You
 
 ### Newsletter Archives
 
+* [28 November 2019 (84): Reinventing Mattel, M&A in Publishing, and Calling Out Bezos](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=7a8e418036)
 * [20 November 2019 (83): The Subscription TV Landscape, Investing in Vice, and No-Bullshit Consulting](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=6cead6ea84)
 * [13 November 2019 (82): The Digital Advertising Bubble, HP/Xerox, and the Future of Condé Nast](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=a10a055424)
 * [6 November 2019 (81): Attention Patterns, Minimum Lovable Products and Horizon Scanning in Innovation](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=29995fdace)
