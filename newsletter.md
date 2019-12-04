@@ -4,7 +4,9 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-I publish a weekly email newsletter on things that interested me that week. [You can subscribe to it here](http://georgewalkley.us15.list-manage2.com/subscribe?u=808fdaa370fd1e21e55efda7d&amp;id=1dd0743f99). Readers describe it as:
+I publish a weekly email newsletter on things that interested me that week, around the themes of media, innovation, venture and strategy. [You can subscribe to it here](http://georgewalkley.us15.list-manage2.com/subscribe?u=808fdaa370fd1e21e55efda7d&amp;id=1dd0743f99). Readers describe it as:
+* "All kinds of catnip for nerds."
+* "It helps me look way, way cleverer than I actually am."
 * "If you are into media, innovation, venturing and strategy and you aren't subscribed... then quite frankly you are an idiot."
 * "[A] must read weekly summary of important and interesting updates... You need this in your life - sign up."
 * "It's outrageous that this is free. I mean, it's top, top quality."
