@@ -17,6 +17,7 @@ I publish a weekly email newsletter on things that interested me that week, arou
 
 ### Newsletter Archives
 
+* [24 January 2020 (89): The End of Fox, Mid-Level Abstraction, and the Most Evil Tech Companies](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=3e85b313e5)
 * [17 January 2020 (88): Fast Projects, Happy-Path Strategy, and AI-Generated Audio](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=136d749949)
 * [10 January 2020 (87): Playing at Innovation, Evolving Ecommerce, and Forgotten Songs](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=06976361b4)
 * [12 December 2019 (86): 2020 Predictions, Adversarial Interoperability, and Tumblr’s Year Without Porn](https://us15.campaign-archive.com/?u=808fdaa370fd1e21e55efda7d&id=60e382076a)
