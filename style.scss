@@ -295,27 +295,6 @@ footer p {
   font-size: 12px;
 }
 
-/* Create two unequal columns that floats next to each other */
-.mcol {
-  float: left;
-  padding: 10px;
-}
-
-.left {
-  width: 60%;
-}
-
-.right {
-  width: 40%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
