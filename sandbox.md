@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tc
 title: Sandbox
 permalink: /sandbox/
 ---
