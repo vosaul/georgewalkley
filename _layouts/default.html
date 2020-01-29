@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<!--
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!--
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-263430-35"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -13,71 +14,84 @@
   </script>
 -->
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+  {% include meta.html %}
 
-    <!--[if lt IE 9]>
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
- 
-<!-- UIkit CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.3.0/dist/css/uikit.min.css" />
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
-<!-- UIkit JS -->
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.3.0/dist/js/uikit.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.3.0/dist/js/uikit-icons.min.js"></script>
-    
-  </head>
+  <!-- UIkit CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.3.0/dist/css/uikit.min.css" />
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  <!-- UIkit JS -->
+  <script src="https://cdn.jsdelivr.net/npm/uikit@3.3.0/dist/js/uikit.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/uikit@3.3.0/dist/js/uikit-icons.min.js"></script>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+</head>
 
-          <nav>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/newsletter">Newsletter</a>
-            <a href="{{ site.baseurl }}/speaking">Speaking</a>
-          </nav>
-        </header>
-      </div>
+<body>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+        <div class="site-info">
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+
+        <nav>
+          <a href="{{ site.baseurl }}/about">About</a>
+          <a href="{{ site.baseurl }}/newsletter">Newsletter</a>
+          <a href="{{ site.baseurl }}/speaking">Speaking</a>
+          <button type="button" uk-toggle="target: .tgl; cls: uk-visible@m" class="tgl_sidebar uk-hidden@m">
+            <span uk-icon="icon: menu" class="tgl"></span>
+            <span uk-icon="icon: close" class="tgl uk-visible@m"></span>
+          </button>
+        </nav>
+      </header>
     </div>
+  </div>
 
-    <div id="main" role="main" class="container uk-height-1-1">
+  <div id="main" role="main" class="main" uk-height-viewport="offset-top: true; offset-bottom: 195px">
 
     {{ content }}
-        
-    </div>
 
-    <div class="sidebar uk-position-right">
-      <p>text1</p>
-      <p>text1</p>
-      <p>text1</p>
-    </div>
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-          {% include svg-icons.html %}
-          
-          <p>&copy; Copyright {{ site.time | date: '%Y' }} George Walkley. Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://pages.github.com">Github Pages</a>.</p> 
-          
-        </footer>
-      </div>
-    </div>
+  </div>
+<aside class="tgl sidebar uk-position-right uk-visible@m">
+    {% assign sidebar = site.data.sidebar %}
+    <ul class="uk-nav uk-nav-default">
+     <li class="uk-nav-header">Links to follow</li>
+     <li class="uk-nav-divider"></li>
+      {% for item in sidebar %}
+      <li>
+        <a href="{{item.link}}">{{item.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+</aside>
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
 
-    {% include analytics.html %}
-  </body>
+        {% include svg-icons.html %}
+
+        <p>&copy; Copyright {{ site.time | date: '%Y' }} George Walkley. Made with <a
+            href="https://jekyllrb.com">Jekyll</a> and <a href="https://pages.github.com">Github Pages</a>.</p>
+
+      </footer>
+    </div>
+  </div>
+
+  {% include analytics.html %}
+</body>
+
 </html>
