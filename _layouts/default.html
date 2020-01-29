@@ -22,9 +22,9 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="stylesheet" type="text/css" href="{{'/style.css' | relative_url}}" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
-    href="{{ site.baseurl }}/feed.xml" />
+    href="{{'/feed.xml' | relative_url}}" />
 
   <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
@@ -49,9 +49,9 @@
         </div>
 
         <nav>
-          <a href="{{ site.baseurl }}/about">About</a>
-          <a href="{{ site.baseurl }}/newsletter">Newsletter</a>
-          <a href="{{ site.baseurl }}/speaking">Speaking</a>
+          <a href="{{'/about' | relative_url}}">About</a>
+          <a href="{{'/newsletter' | relative_url}}">Newsletter</a>
+          <a href="{{'/speaking' | relative_url}}">Speaking</a>
           <button type="button" uk-toggle="target: .tgl; cls: uk-visible@m" class="tgl_sidebar uk-hidden@m">
             <span uk-icon="icon: menu" class="tgl"></span>
             <span uk-icon="icon: close" class="tgl uk-visible@m"></span>
