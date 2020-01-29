@@ -10,4 +10,5 @@ The sidebar is described in the _data/sidebar.yml file Here is its structure
   link: #
 - title: item 5
   link: #
+  
 All you have to do is replace the titles and insert a real URL instead of #
